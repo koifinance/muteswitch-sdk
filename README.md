@@ -7,7 +7,7 @@ Mute Switch SDK which handles the routes automatically for you, changes in trade
 ## npm
 
 ```bash
-$ npm install muteswitch-sdk
+$ npm install https://github.com/muteio/muteswitch-sdk
 ```
 
 # SDK guide
